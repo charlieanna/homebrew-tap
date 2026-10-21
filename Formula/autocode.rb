@@ -4,8 +4,8 @@ class Autocode < Formula
 
   desc "Runs your coding agent and won't say done without evidence"
   homepage "https://github.com/charlieanna/autocode"
-  url "https://files.pythonhosted.org/packages/a8/cd/7065ed88adde112c488f047746bcca47f4247d5ce2e5b64c2f11983a5e79/autocode_supervisor-0.8.1.tar.gz"
-  sha256 "2478e8a5bec3eab0a9fddee37236143aab788cc9fc3bb53e6226bf1a4c6952df"
+  url "https://files.pythonhosted.org/packages/b4/d2/4c1624603b09785879713b29568952820db7da85d673694bf1ff20ecabc9/autocode_supervisor-0.8.2.tar.gz"
+  sha256 "347743fe1695b4e83bd5d3c3ab4373379dbb8b7d36d7d0395af0918d22495a53"
   license "Apache-2.0"
 
   depends_on "python@3.13"
